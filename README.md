@@ -13,3 +13,9 @@ Key findings include:
 - The study identified a positive correlation (r-value of 0.84) between average tumor volume and mouse weight, suggesting that tumor volume can be effectively predicted based on mouse weight.
 
 This analysis provides valuable insights into the effectiveness of various drug regimens, with a focus on Capomulin, in treating SCC tumors. The correlations and observations derived from the study contribute to our understanding of tumor development and offer potential avenues for further research and treatment refinement.
+
+## References
+- https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
+- https://stackoverflow.com/questions/46640945/grouping-by-multiple-columns-to-find-duplicate-rows-pandas
+- https://sparkbyexamples.com/pandas/pandas-combine-two-series-into-dataframe/#:~:text=Combine%20Two%20Series%20Using%20pandas.&text=merge()%20can%20be%20used,True%2C%20left_index%3DTrue)%20.
+- https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.aggregate.html
